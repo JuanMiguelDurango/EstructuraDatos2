@@ -1,0 +1,5 @@
+"Jose Juan", 0, 10/7/2041, "Medellin", 3715382, "Judsq@unal", 47, "55A", "Santa", "cali", "", ""
+"Miguel", 1, 15/2/2001, "Bogota", 3715, "jmiguld@unal", 12, "65B", "lasti", "Lima", "", ""
+"Nicolas", 2, 31/12/2004, "Fondo de bikini", 612736, "Nilobj@unal", 43, "76K", "Crustaceo", "Cascarudo", "", ""
+"Mary", 3, 21/8/2007, "Bajoterra", 716387,"Mar1@unal", 75, "57C", "Babosa", "Fria", "", "" 
+"Paquito Alimañana", 4, 30/2/1914, "Stalingrado", 1983981, "alemaniacool@comunismo.com", 42, "98JK", "springfield", "cualquiera", "trece", 14
